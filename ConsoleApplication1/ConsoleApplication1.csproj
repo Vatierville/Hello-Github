@@ -45,6 +45,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stuff\NewClass1.cs" />
+    <Compile Include="Stuff\NewClass2.cs" />
     <Compile Include="Stuff\TMPrime2.cs" />
     <Compile Include="Stuff\TMPrime3.cs" />
   </ItemGroup>

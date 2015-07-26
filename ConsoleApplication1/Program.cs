@@ -17,6 +17,7 @@ namespace ConsoleApplication1
             // Added TMPrime3.cs
 
             // Added NewClass1
+            // Added NewClass2
         }
     }
 }
