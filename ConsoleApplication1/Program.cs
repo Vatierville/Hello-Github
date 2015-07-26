@@ -18,6 +18,8 @@ namespace ConsoleApplication1
 
             // Added NewClass1
             // Added NewClass2
+
+            // Added some comments
         }
     }
 }
