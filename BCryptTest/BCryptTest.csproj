@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{13BD996A-0640-4BDD-BCEB-3213B7D89DA8}</ProjectGuid>
+    <ProjectGuid>{2D7B77FE-7206-4279-8ADE-F327F0525DA9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>BCryptTest</RootNamespace>
+    <AssemblyName>BCryptTest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,12 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Encryption\BCrypt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stuff\NewClass1.cs" />
-    <Compile Include="Stuff\NewClass2.cs" />
-    <Compile Include="Stuff\TMPrime2.cs" />
-    <Compile Include="Stuff\TMPrime3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
