@@ -11,6 +11,10 @@ namespace BCryptTest
     // Generate merge conflict
     class Program
     {
+<<<<<<< Updated upstream
+=======
+        // Visual studio changes2
+>>>>>>> Stashed changes
         static void Main(string[] args)
         {
             const int iterations = 100;
