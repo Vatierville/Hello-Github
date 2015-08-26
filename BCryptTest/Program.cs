@@ -11,7 +11,7 @@ namespace BCryptTest
     // TMPrime_3 merge conflict
     class Program
     {
-        // Some changes2
+        // Git changes
         static void Main(string[] args)
         {
             const int iterations = 1000;
