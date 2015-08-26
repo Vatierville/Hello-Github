@@ -11,6 +11,7 @@ namespace BCryptTest
     // TMPrime_3 merge conflict
     class Program
     {
+        // Git changes
         // Visual studio changes
         static void Main(string[] args)
         {
