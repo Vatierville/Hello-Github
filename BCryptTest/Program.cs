@@ -10,6 +10,7 @@ namespace BCryptTest
 {
     class Program
     {
+        // Some changes
         static void Main(string[] args)
         {
             const int iterations = 1000;
