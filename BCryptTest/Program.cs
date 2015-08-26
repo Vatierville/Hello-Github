@@ -8,6 +8,7 @@ using TicketmasterSystems.Encryption;
 
 namespace BCryptTest
 {
+    // Generate merge conflict
     class Program
     {
         static void Main(string[] args)
